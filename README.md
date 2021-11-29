@@ -13,7 +13,7 @@
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [x] Criação do HTML
-- [x] Criasção do  CSS
+- [x] Criação do  CSS
 - [ ] Atualização do layout
 
 ## 🤝 Colaboradores
